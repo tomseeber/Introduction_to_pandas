@@ -7,13 +7,26 @@
     - Single-Column basic statistics
     - Multi-Column basic statistics
     - Run Descriptive statics with Pandas
-- Apply mean, median, mode and range to a real-world situations
+- Apply mean, median, and range to real-world situations
 
 
 ##  Code-Along File and Raw Data
 
 Code Alongs are intended for you to work through the code with the instructor.  
+
 Please download the Jupyter notebook file and the Height and Weight CSV. 
 
-* [Code Along Unsolved File](Unsolved-Panda-Statistics-Code-Along.ipynb)
+* [Pandas with basic statistics Unsolved Code Along File](Unsolved-Panda-Statistics-Code-Along.ipynb)
 * [Raw Data for NHAYES Height and Weight](data/NHANES%20Weight%20and%20Height.csv)
+
+## Learning More
+
+If you are interested in learning more, here are some of the functions and tools we used in the code-along.
+
+* [General Pandas Introduction](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
+* [Pandas read_csv function](https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html)
+* [Pandas describe function](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html)
+* [Pandas agg function](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.agg.html)
+* [Pandas apply function](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.apply.html#pandas.DataFrame.apply)
+* [Khan Academy: Mean, Median, Mode](https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/v/statistics-intro-mean-median-and-mode)
+
