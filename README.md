@@ -21,7 +21,7 @@ Please download the Jupyter notebook file and the Height and Weight CSV.
 
 ## Learning More
 
-If you are interested in learning more, here are some of the functions and tools we used in the code-along.
+Interested in learning more? Here are some of the functions and tools we used in the code-along.
 
 * [General Pandas Introduction](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
 * [Pandas read_csv function](https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html)
