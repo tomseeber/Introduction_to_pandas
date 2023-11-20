@@ -3,7 +3,7 @@
 ## Learning Objectives
 
 - Learn how to import a CSV file into a Panda Dataframe 
-- Use Pandas to calculate basic statistics ( Mean. Median, Mode, Range)
+- Use Pandas to calculate basic statistics ( Mean, Median, Mode, Range)
     - Single-Column basic statistics
     - Multi-Column basic statistics
     - Run Descriptive statics with Pandas
